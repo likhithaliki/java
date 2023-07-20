@@ -1,0 +1,9 @@
+public class Main
+{
+    public static void main (String[] args)
+    {
+        int num = 12345;
+        int lastDigit = num%10;
+        System.out.println("The last Digit of the Number is "+lastDigit);
+    }
+}
